@@ -13,7 +13,7 @@
 
 1. 이 프로젝트를 로컬 컴퓨터로 클론하거나 다운로드합니다.
 2. Python이 설치되어 있지 않은 경우, Python 공식 홈페이지에서 Python을 설치합니다.
-3. `Minecraft_Backup_Creator.py`를 실행합니다.
+3. `main.py`를 실행합니다.
 4. GUI에 표시된 Minecraft 월드 목록에서 백업하려는 월드를 선택합니다.
 5. 'Backup Selected World' 버튼을 클릭하여 백업을 시작합니다.
 6. 백업 경로를 변경하려면 'Select Backup Directory' 버튼을 클릭하고 새 경로를 선택합니다.
